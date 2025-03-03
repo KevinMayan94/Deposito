@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/mayan/Desktop/Projects Java/Deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/mayan/Desktop/Projects Java/Deposito/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Deposito 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Deposito 1.0-SNAPSHOT API'
+cuentas
+C:\Users\mayan\Desktop\Projects Java\Deposito\src\main\java = 1741000662146
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\allclasses-index.html = 1741001636612
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\allpackages-index.html = 1741001636614
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\copy.svg = 1741001636635
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\element-list = 1741001636571
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\help-doc.html = 1741001636631
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\index-all.html = 1741001636626
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\index.html = 1741001636629
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\link.svg = 1741001636636
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\member-search-index.js = 1741001636617
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\module-search-index.js = 1741001636615
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\overview-tree.html = 1741001636604
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\package-search-index.js = 1741001636616
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\script.js = 1741001636634
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\search-page.js = 1741001636638
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\search.html = 1741001636627
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\search.js = 1741001636637
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\stylesheet.css = 1741001636633
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\tag-search-index.js = 1741001636618
+C:\Users\mayan\Desktop\Projects Java\Deposito\target\reports\apidocs\type-search-index.js = 1741001636617
